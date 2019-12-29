@@ -159,7 +159,7 @@ class ViewController: UIViewController {
         //        outline.borderWidth = 3
         //        self.view.layer.addSublayer(outline)
         
-        let image = UIImage(named: "madIcon")
+        let image = UIImage(named: "han")
         let imageView = UIImageView(image: image)
         imageView.frame = facebounds
         self.screenView.addSubview(imageView)
